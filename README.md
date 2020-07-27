@@ -7,4 +7,8 @@ The CNN architecture here is :
 Conv-Conv-Pool scheme for 3 times added further with 3 fully connected layers.
 
 
-Used **TensorFlow version = 1.14**
+## Requirements
+
+- **TensorFlow version = 1.15.2**
+- **Keras version = 2.3.1**
+
